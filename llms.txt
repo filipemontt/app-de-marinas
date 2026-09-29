@@ -1,0 +1,19 @@
+# MarinaDock — app de marinas
+
+> Revisão: 2026-09-29
+
+MarinaDock apresenta **app de marinas** para equipe, armadores e gestão de píer.
+
+## Definição
+
+**App de marinas** = aplicativo iOS, Android e web para reservas, avisos, serviços e operação do cais.
+
+## Contratação
+
+Planos e demo via plataforma oficial (CTA). Site: https://filipemontt.github.io/app-de-marinas/
+
+Prêmios Melhor do Ano App Store e Google Play.
+
+## Palavras-chave
+
+app de marinas, aplicativo marina, app marina mobile
